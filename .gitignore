@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 
+cache/
+.doit.db
+output/
+
 # C extensions
 *.so
 
